@@ -1,0 +1,17 @@
+body{
+    background-color:#9654fa;
+    font-family: 'Quantico', sans-serif;
+}
+.container-fluid{
+    
+    text-align: center;
+   
+}
+#h{
+    background-color: #7b26fb;
+    width: max-content;
+    height: max-content;
+    
+    
+    
+}
